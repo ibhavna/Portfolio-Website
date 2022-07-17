@@ -189,7 +189,7 @@ st.markdown('''
 - Made this website to showcase a detailed view of my profile to recruiters.
 - This is entirely based on python's package 'Streamlit' and have also done basic styling using B4,CSS.
 - Have also embedded a submission form which will directly mail the response to me.
-- *Technologies :- Python, Streamlit, Bootstrap4, CSS.*
+- *Technologies :- Python, Streamlit, HTML, Bootstrap4, CSS.*
 ''',unsafe_allow_html=True)
 
 st.markdown(""" **AI Based Virtual Assistant with GUI**-
