@@ -97,18 +97,18 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Bachelor of Technology** (Computer Science), *Sagar Institute of Science Technology and Research (SISTec-R)*, Bhopal','2019-2023')
+txt('**Bachelor of Technology** (Computer Science), *Sagar Institute of Science Technology and Research (SISTec-R)*, Bhopal')
 st.markdown('''
 - CGPA: `8.58` (Till 5th Semester)
 - Ongoing Course
 ''')
 
-txt('**XII** (PCM), *Vikram Higher Secondary School (CBSE)*, Bhopal','2016-2017')
+txt('**XII** (PCM), *Vikram Higher Secondary School (CBSE)*, Bhopal')
 st.markdown('''
 - Percentage: `77.80%`
 ''')
 
-txt('**X** *Vikram Higher Secondary School (CBSE)*, Bhopal','2014-2015')
+txt('**X** *Vikram Higher Secondary School (CBSE)*, Bhopal')
 st.markdown('''
 - CGPA: `9.0`
 ''')
@@ -246,7 +246,7 @@ contact_form = """
 st.markdown('''
 ## Download Resume
 ''')
-st.download_button('Download Resume',pdfFileObj, file_name='Bhavna_Resume.pdf',mime='pdf')
+st.download_button('Download Resume',pdfFileObj, file_name='Bhavna_resume_p.pdf',mime='pdf')
 
 with st.sidebar:
     st.header("**Connect with me!**")
