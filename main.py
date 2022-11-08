@@ -103,22 +103,9 @@ st.markdown('''
 - Ongoing Course
 ''')
 
-txt('**Bachelor of Technology** (Computer Science), *Poornima University*, Jaipur','2018-2019')
-st.markdown('''
-- Was there for 1 sem only.
-- Dropped out in between due to some personal reasons.
-''')
-
-txt('**XII + Drop** (PCM), *Vikram Higher Secondary School (CBSE)*, Bhopal','2017-2018')
-st.markdown('''
-- Percentage: `78.00%` (Improvement Exam).
-- This was my drop year for IIT-JEE preprataion and also had given CBSE's Improvement Exam to improve my XII percentage.
-- Result: Couldn't make into the JEE exam. 
-''')
-
 txt('**XII** (PCM), *Vikram Higher Secondary School (CBSE)*, Bhopal','2016-2017')
 st.markdown('''
-- Percentage: `67.00%`
+- Percentage: `77.80%`
 ''')
 
 txt('**X** *Vikram Higher Secondary School (CBSE)*, Bhopal','2014-2015')
