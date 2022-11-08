@@ -97,7 +97,7 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Bachelor of Technology** (Computer Science), *Sagar Institute of Science Technology and Research (SISTec-R)*, Bhopal','2019-2023')
+txt('**Bachelor of Technology** (Computer Science), *Sagar Institute of Science Technology and Research (SISTec-R)*, Bhopal','')
 st.markdown('''
 - CGPA: `8.58` (Till 5th Semester)
 - Ongoing Course
