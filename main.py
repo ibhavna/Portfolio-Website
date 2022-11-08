@@ -103,12 +103,12 @@ st.markdown('''
 - Ongoing Course
 ''')
 
-txt('**XII** (PCM), *Vikram Higher Secondary School (CBSE)*, Bhopal')
+txt('**XII** (PCM), *Vikram Higher Secondary School (CBSE)*, Bhopal','')
 st.markdown('''
 - Percentage: `77.80%`
 ''')
 
-txt('**X** *Vikram Higher Secondary School (CBSE)*, Bhopal')
+txt('**X** *Vikram Higher Secondary School (CBSE)*, Bhopal','')
 st.markdown('''
 - CGPA: `9.0`
 ''')
