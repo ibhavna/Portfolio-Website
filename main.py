@@ -133,7 +133,7 @@ st.markdown('''
 ## Work Experiences
 ''')
 
-txt('**Python Developer - Intern**, Credicxo Tech PVT Ltd, Delhi','Jan/2022- Apr/2021') 
+txt('**Python Developer - Intern**, Credicxo Tech PVT Ltd, Delhi','Jan/2022- Apr/2022') 
 st.markdown('''
 - Developed automated code for trading in stocks and share market.
 - Done Web Scraping for various sites and exported the data.
