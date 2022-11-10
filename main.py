@@ -225,7 +225,7 @@ txt3('Residency :',' Bhopal, MadhyaPradesh, India')
 txt3('LinkedIn :', 'https://www.linkedin.com/in/ibhavnachilhate/')
 txt3('GitHub :', 'https://github.com/ibhavna')
 
-pdfFileObj = open('Bhavna_resume_p.pdf','rb')
+pdfFileObj = open('Bhavna_Resume_rec.pdf','rb')
 
 embed_component= {'linkedin':"""<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
                 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ibhavnachilhate" data-version="v1">
@@ -246,7 +246,7 @@ contact_form = """
 st.markdown('''
 ## Download Resume
 ''')
-st.download_button('Download Resume',pdfFileObj, file_name='Bhavna_resume_p.pdf',mime='pdf')
+st.download_button('Download Resume',pdfFileObj, file_name='Bhavna_Resume_rec.pdf',mime='pdf')
 
 with st.sidebar:
     st.header("**Connect with me!**")
