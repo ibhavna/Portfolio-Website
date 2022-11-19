@@ -206,7 +206,7 @@ st.markdown('''
 ''')
 st.markdown('''
 - 5 star coder at HackerRank in Python. 
-- 1st Prize in Singing and Instrumental Performance (SISTec-R)
+- 1st Prize in Singing and Instrumental (Guitar) Performance (SISTec-R)
 - Startup Coordinator at IIC (SISTec-R ).
 - Cultural Coordinator at SAC (SISTec-R).
 - Student Coordinator at Anti-Ragging Committee (SISTec-R)
